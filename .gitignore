@@ -1,2 +1,6 @@
 *.pyc
 MANIFEST
+/build
+*.egg-info
+/dist
+.DS_Store

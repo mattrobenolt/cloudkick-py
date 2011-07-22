@@ -18,7 +18,7 @@ except:
   import simplejson as json
 
 
-from cloudkick_api.base import Connection
+from cloudkick.base import Connection
 from pprint import pprint
 from pygooglechart import SimpleLineChart
 from pygooglechart import Axis
